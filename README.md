@@ -1,2 +1,2 @@
 # website-clothing
-Repositori untuk menyimpan website clothing kedepannya
+Repositori untuk menyimpan rencana website clothing kedepannya
