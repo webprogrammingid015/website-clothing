@@ -3,6 +3,9 @@ RENCANA KONTEN WEBSITE CLOTHING
 -JAVA
  -ES6
  - Framework javascript
--struktur data dasar
--php
+ -Angular
+ -react
+
+-phpframework
+-laravel
 -C++
